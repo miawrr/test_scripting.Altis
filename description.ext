@@ -1,0 +1,15 @@
+respawnOnStart = -1;
+disabledAI = 1;
+respawn = "BASE";
+
+class cfgFunctions
+{
+    class LeL
+    {
+        class functions
+        {
+            file = "functions";
+            class playerSpawn {};
+        };
+    };
+};
