@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initPlayerLocal.sqf" pinned="false" current-in-tab="false">
+      <file leaf-file-name="initPlayerLocal.sqf" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/initPlayerLocal.sqf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -38,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fn_playerSpawn.sqf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fn_playerSpawn.sqf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions/fn_playerSpawn.sqf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -742,18 +742,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/initPlayerLocal.sqf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions/fn_playerSpawn.sqf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initPlayerLocal.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
